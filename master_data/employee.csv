@@ -1,0 +1,133 @@
+EmployeeID,FirstName,LastName,Position,Salary,WorkCategory
+E001,Jennifer,Melfi,HR Manager,"85,000",Support Roles
+E002,Teddy,Daniels,Administrative Assistant,"45,000",Support Roles
+E003,Arthur,Fleck,Customer support representative,"40,000",Support Roles
+E004,Tony,Soprano,Warehouse Manager,"150,000",Warehouse
+E005,Paulie,Gaultieri,Warehouse Supervisor,"95,000",Warehouse
+E006,Christopher,Moltisanti,Warehouse Staff,"78,000",Warehouse
+E007,Jimmy,McGill,Warehouse Manager,"150,000",Warehouse
+E008,Mike,Ehrmantraut,Warehouse Supervisor,"95,000",Warehouse
+E009,Nacho,Varga,Warehouse Staff,"78,000",Warehouse
+E010,Gus,Fring,Warehouse Manager,"150,000",Warehouse
+E011,Max,Arciniega,Warehouse Supervisor,"95,000",Warehouse
+E012,Tyrius,Kitt,Warehouse Staff,"78,000",Warehouse
+E013,Tuco,Salamanca,Warehouse Manager,"150,000",Warehouse
+E014,Theodore,Bagwell,Warehouse Supervisor,"95,000",Warehouse
+E015,Vamsi,Nard,Warehouse Staff,"78,000",Warehouse
+E016,Ken,Miles,Design Engineer,"115,000",Design
+E017,Sabu,Cyril,System Architect,"80,000",Design
+E018,Sharmista,Roy,Database designer,"65,000",Design
+E019,Chandrakant,Desai,Business Analyst,"95,000",Design
+E020,Alexander,Mahone,Production Manager,"90,000",Production
+E021,Tony,Montana,Production Supervisor,"80,000",Production
+E022,Karthik,Vasu,Maintenance Technician,"70,000",Production
+E023,Miranda,Priestly,Quality Control Inspector,"85,000",Production
+E024,Dileep,Kumar,Production Manager,"90,000",Production
+E025,Shankar,Mahadevan,Production Supervisor,"80,000",Production
+E026,Harris,Jayaraj,Maintenance Technician,"70,000",Production
+E027,Amit,Trivedi,Quality Control Inspector,"85,000",Production
+E028,Pritam,Chakraborty,Production Manager,"90,000",Production
+E029,Sachin,Burman,Production Supervisor,"80,000",Production
+E030,Salil,Choudhary,Maintenance Technician,"70,000",Production
+E031,Rahul,Burman,Quality Control Inspector,"85,000",Production
+E032,Gnanathesikan,Raasayya,Production Manager,"90,000",Production
+E033,Anirudh,Ravichander,Production Supervisor,"80,000",Production
+E034,Yuvan,Shankar,Maintenance Technician,"70,000",Production
+E035,Santhosh,Narayanan,Quality Control Inspector,"85,000",Production
+E036,Mahadevan,Krishnankoil,Production Manager,"90,000",Production
+E037,Pendyala,Nageshwar,Production Supervisor,"80,000",Production
+E038,Mani,Sharma,Maintenance Technician,"70,000",Production
+E039,Keeravaani,Marakathamani,Quality Control Inspector,"85,000",Production
+E040,Patrick,Bateman,Production Manager,"90,000",Production
+E041,Carson,Wells,Production Supervisor,"80,000",Production
+E042,Dilli,Raja,Maintenance Technician,"70,000",Production
+E043,Henry,Hill,Quality Control Inspector,"85,000",Production
+E044,Rajamouli,Srisaila,Production Manager,"90,000",Production
+E045,Sukumar,Reddy,Production Supervisor,"80,000",Production
+E046,Trivikram,Srinivasulu,Maintenance Technician,"70,000",Production
+E047,Siva,Koratala,Quality Control Inspector,"85,000",Production
+E048,Russell,Buffalino,Production Manager,"90,000",Production
+E049,Frank,Martin,Production Supervisor,"80,000",Production
+E050,Anton,Chigurh,Maintenance Technician,"70,000",Production
+E051,Jules,Winfield,Quality Control Inspector,"85,000",Production
+E052,Ram,Gopal,Production Manager,"90,000",Production
+E053,Puri,Jagannadh,Production Supervisor,"80,000",Production
+E054,Srinu,Vaitla,Maintenance Technician,"70,000",Production
+E055,Guna,Sekhar,Quality Control Inspector,"85,000",Production
+E056,Walter,White,Production Manager,"90,000",Production
+E057,Jesse,Pinkman,Production Supervisor,"80,000",Production
+E058,Skyler,White,Maintenance Technician,"70,000",Production
+E059,Hank,Schrader,Quality Control Inspector,"85,000",Production
+E060,Ethan,Hunt,Production Manager,"90,000",Production
+E061,Benji,Dunn,Production Supervisor,"80,000",Production
+E062,Luther,Stickell,Maintenance Technician,"70,000",Production
+E063,Gale,Boetticher,Quality Control Inspector,"85,000",Production
+E064,Calvin,Candie,Production Manager,"90,000",Production
+E065,King,Schultz,Production Supervisor,"80,000",Production
+E066,Stephen,Brown,Maintenance Technician,"70,000",Production
+E067,Todd,Alquist,Quality Control Inspector,"85,000",Production
+E068,Sarah,Connor,Production Manager,"90,000",Production
+E069,Travis,Bickle,Production Supervisor,"80,000",Production
+E070,Lester,Burnham,Maintenance Technician,"70,000",Production
+E071,Prem,Krishna,Quality Control Inspector,"85,000",Production
+E072,Sandeep,Reddy,Production Manager,"90,000",Production
+E073,Tarun,Bhaskar,Production Supervisor,"80,000",Production
+E074,Sujeeth,Reddy,Maintenance Technician,"70,000",Production
+E075,Mani,Ratnam,Quality Control Inspector,"85,000",Production
+E076,Prashanth,Neel,Production Manager,"90,000",Production
+E077,Vetri,Maaran,Production Supervisor,"80,000",Production
+E078,Anurag,Kahsyap,Maintenance Technician,"70,000",Production
+E079,Shankar,Shanmugam,Quality Control Inspector,"85,000",Production
+E080,Satyajit,Ray,Production Manager,"90,000",Production
+E081,Rajkumar,Hirani,Production Supervisor,"80,000",Production
+E082,Hrishikesh,Mukherjee,Maintenance Technician,"70,000",Production
+E083,Sanjay,Leela,Quality Control Inspector,"85,000",Production
+E084,Viswanath,Kasinadhuni,Production Manager,"90,000",Production
+E085,Dasari,Rao,Production Supervisor,"80,000",Production
+E086,Narayana,Sattiraju,Maintenance Technician,"70,000",Production
+E087,Balachander,Kailasam,Quality Control Inspector,"85,000",Production
+E088,David,Wallace,Production Manager,"90,000",Production
+E089,Jan,Levinson,Production Supervisor,"80,000",Production
+E090,Pavan,Murari,Maintenance Technician,"70,000",Production
+E091,Rohith,Uppala,Quality Control Inspector,"85,000",Production
+E092,Micheal,Scott,Production Manager,"90,000",Production
+E093,Holly,Flax,Production Supervisor,"80,000",Production
+E094,Tarun,Bhaskar,Maintenance Technician,"70,000",Production
+E095,Toby,Flenderson,Quality Control Inspector,"85,000",Production
+E096,Robert,California,Production Manager,"90,000",Production
+E097,David,Brent,Production Supervisor,"80,000",Production
+E098,Roy,Anderson,Maintenance Technician,"70,000",Production
+E099,Karen,Filippelli,Quality Control Inspector,"85,000",Production
+E100,Darryl,Philbin,Production Manager,"90,000",Production
+E101,Todd,Packer,Production Supervisor,"80,000",Production
+E102,Gabe,Lewis,Maintenance Technician,"70,000",Production
+E103,Nellie,Bertram,Quality Control Inspector,"85,000",Production
+E104,Andy,Bernard,Production Manager,"90,000",Production
+E105,Erin,Hannon,Production Supervisor,"80,000",Production
+E106,Phyllis,Vance,Maintenance Technician,"70,000",Production
+E107,Bob,Vance,Quality Control Inspector,"85,000",Production
+E108,Ryan,Howard,Production Manager,"90,000",Production
+E109,Kelly,Kapoor,Production Supervisor,"80,000",Production
+E110,Oscar,Martinez,Maintenance Technician,"70,000",Production
+E111,Kevin,Malone,Quality Control Inspector,"85,000",Production
+E112,Jim,Halpert,Production Manager,"90,000",Production
+E113,Pam,Beasly,Production Supervisor,"80,000",Production
+E114,Creed,Batton,Maintenance Technician,"70,000",Production
+E115,Meredith,Palmer,Quality Control Inspector,"85,000",Production
+E116,Dwight,Schrute,Production Manager,"90,000",Production
+E117,Stanley,Hudson,Production Supervisor,"80,000",Production
+E118,Mose,Schrute,Maintenance Technician,"70,000",Production
+E119,Angela,Martin,Quality Control Inspector,"85,000",Production
+E120,Andy,Duffresne,Accountant Manager,"100,000",Accounting and Finance
+E121,Frank,Sheeran,Billing Specialist,"85,000",Accounting and Finance
+E122,Amy,Dunne,Sales Manager,"125,000",Sales and Marketing
+E123,Tyler,Durden,Sales Representative,"95,000",Sales and Marketing
+E124,Alfred,Borden,Marketing Specialist,"80,000",Sales and Marketing
+E125,Robert,Angier,Public Relations(PR) Specialist,"80,000",Sales and Marketing
+E126,Alan,Rickman,CEO,"1,500,000",Board
+E127,Shivaji,Gaikwad,CFO,"1,300,000",Board
+E128,Hans,Landa,COO,"850,000",Board
+E129,Vincent,Hanna,CSO,"500,000",Board
+E130,Sheldon,Cooper,IT Manager,"130,000",Technical and IT
+E131,Leonard,Hofstadter,System Administrator,"90,000",Technical and IT
+E132,Howard,Wolowitz,Netwrok Engineer,"90,000",Technical and IT
